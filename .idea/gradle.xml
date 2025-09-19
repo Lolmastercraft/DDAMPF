@@ -11,6 +11,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/data-core" />
             <option value="$PROJECT_DIR$/dias_en_que_se_tomo" />
             <option value="$PROJECT_DIR$/mililitros_tomados" />
             <option value="$PROJECT_DIR$/ranking_de_licores" />

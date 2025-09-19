@@ -19,9 +19,8 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Proyecto Final"
+rootProject.name = "ClassWork1_SA5_DM"
 include(":app")
-include(":mililitros_tomados")
+include(":mililitros_Tomados")
 include(":dias_en_que_se_tomo")
 include(":ranking_de_licores")
-include(":data-core")

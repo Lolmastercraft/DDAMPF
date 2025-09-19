@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "673378321954",
+    "project_id": "beerisfun-1bb26",
+    "storage_bucket": "beerisfun-1bb26.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673378321954:android:d45bc6282ebf4037f36c7b",
+        "android_client_info": {
+          "package_name": "com.example.classwork1_sa5_dm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApTeHubbyJqbZEodimekToNF2ef1r23r0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
